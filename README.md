@@ -6,7 +6,7 @@ This is a simple program written in Go to find directories on a website. It chec
 
 1. Make sure you have Go installed on your machine. You can download and install it from the [official website](https://golang.org/).
 
-2. Clone this repository to your local machine:
+2. Clone this repository to your local machine: \
 git clone https://github.com/your-user/admin-finder-go.git
 
 
