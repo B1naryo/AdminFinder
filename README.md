@@ -10,10 +10,10 @@ This is a simple program written in Go to find directories on a website. It chec
 git clone https://github.com/your-user/admin-finder-go.git
 
 
-3. Navigate to the project directory:
+3. Navigate to the project directory: \
 cd admin-finder-go
 
-4. Compile the code:
+4. Compile the code: \
 go build AdminFinder.go
 
 
