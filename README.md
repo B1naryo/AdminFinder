@@ -20,11 +20,11 @@ go build AdminFinder.go
 5. Run the program:
 - To check a single URL:
   ```
-  ./AdminFinder -u https://site.com -d directories.txt
+  ./AdminFinder -u https://site.com -d admin.txt
   ```
 - To check multiple URLs from a file:
   ```
-  ./AdminFinder -f urlz.txt -d directories.txt
+  ./AdminFinder -f urls.txt -d admin.txt
   ```
 
 Replace `https://site.com` with the base URL you want to check and `directories.txt` with the name of the file containing the directories to be checked.
