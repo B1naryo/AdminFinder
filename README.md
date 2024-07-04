@@ -16,8 +16,11 @@ cd admin-finder-go
 4. Compile the code: \
 go build AdminFinder.go
 
+# OR
+ffuf -u https://2.2.1.1/FUZZ -w big.txt -c -mr "FUZZ"
 
-5. Run the program:
+
+6. Run the program:
 - To check a single URL:
   ```
   ./AdminFinder -u https://site.com -d admin.txt
